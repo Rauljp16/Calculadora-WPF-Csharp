@@ -1,0 +1,67 @@
+C:\workspace\calculadora\calculadora\bin\Debug\net7.0-windows\calculadora.exe
+C:\workspace\calculadora\calculadora\bin\Debug\net7.0-windows\calculadora.deps.json
+C:\workspace\calculadora\calculadora\bin\Debug\net7.0-windows\calculadora.runtimeconfig.json
+C:\workspace\calculadora\calculadora\bin\Debug\net7.0-windows\calculadora.dll
+C:\workspace\calculadora\calculadora\bin\Debug\net7.0-windows\calculadora.pdb
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.csproj.ResolveComReference.cache
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\MainWindow.baml
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\Window1.baml
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\Window1.g.cs
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\App.g.cs
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora_MarkupCompile.cache
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.g.resources
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.AssemblyInfo.cs
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.dll
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\refint\calculadora.dll
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.pdb
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\calculadora.genruntimeconfig.cache
+C:\workspace\calculadora\calculadora\obj\Debug\net7.0-windows\ref\calculadora.dll
+C:\Users\raul_\Desktop\calculadora WPF-C#\bin\Debug\net7.0-windows\calculadora.exe
+C:\Users\raul_\Desktop\calculadora WPF-C#\bin\Debug\net7.0-windows\calculadora.deps.json
+C:\Users\raul_\Desktop\calculadora WPF-C#\bin\Debug\net7.0-windows\calculadora.runtimeconfig.json
+C:\Users\raul_\Desktop\calculadora WPF-C#\bin\Debug\net7.0-windows\calculadora.dll
+C:\Users\raul_\Desktop\calculadora WPF-C#\bin\Debug\net7.0-windows\calculadora.pdb
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.csproj.ResolveComReference.cache
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora_MarkupCompile.cache
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.g.resources
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.dll
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\refint\calculadora.dll
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.pdb
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\raul_\Desktop\calculadora WPF-C#\obj\Debug\net7.0-windows\ref\calculadora.dll
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\bin\Debug\net7.0-windows\calculadora.exe
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\bin\Debug\net7.0-windows\calculadora.deps.json
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\bin\Debug\net7.0-windows\calculadora.runtimeconfig.json
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\bin\Debug\net7.0-windows\calculadora.dll
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\bin\Debug\net7.0-windows\calculadora.pdb
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.csproj.ResolveComReference.cache
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora_MarkupCompile.cache
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.g.resources
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.dll
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\refint\calculadora.dll
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.pdb
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\ref\calculadora.dll
