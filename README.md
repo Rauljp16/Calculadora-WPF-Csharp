@@ -18,6 +18,6 @@
 
 2️⃣
 
-<img src="img/Calculadora2.png" width="700" height="400" >
+![CalculadoraC#1](Calculadora2.png)
 
 
