@@ -65,3 +65,4 @@ C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\re
 C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.pdb
 C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.genruntimeconfig.cache
 C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\ref\calculadora.dll
+C:\Users\raul_\Desktop\proyectos\calculadora  WPF-C#\obj\Debug\net7.0-windows\calculadora.sourcelink.json

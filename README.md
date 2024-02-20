@@ -14,10 +14,10 @@
 
 1️⃣
 
-![CalculadoraC#1](CalculadoraC#1.png)
+![CalculadoraC#1](Calculadora1.png)
 
 2️⃣
 
-<img src="img/CalculadoraC#2.png" width="700" height="400" >
+<img src="img/Calculadora2.png" width="700" height="400" >
 
 
