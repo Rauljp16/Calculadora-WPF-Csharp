@@ -14,7 +14,7 @@
 
 1️⃣
 
-<img src="img/CalculadoraC#1.png" width="700" height="400" >
+![CalculadoraC#1](CalculadoraC#1.png)
 
 2️⃣
 
