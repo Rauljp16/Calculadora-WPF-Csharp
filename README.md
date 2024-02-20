@@ -14,7 +14,7 @@
 
 1️⃣
 
-![CalculadoraC#1](Calculadora1.png)
+![CalculadoraC#1](calculadora.png)
 
 2️⃣
 
