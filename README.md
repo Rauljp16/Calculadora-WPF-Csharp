@@ -14,14 +14,10 @@
 
 1️⃣
 
-<img src="src/img/Home.png" width="700" height="400" >
+<img src="img/CalculadoraC#1.png" width="700" height="400" >
 
 2️⃣
 
-<img src="src/img/Museos.png" width="700" height="400" >
+<img src="img/CalculadoraC#2.png" width="700" height="400" >
 
-3️⃣
 
-<img src="src/img/Museo.png" width="700" height="400" >
-
-<br/>
